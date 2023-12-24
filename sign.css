@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+.sign{
+    justify-content: center;
+    background-image: url(./image/peshawar\ university.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    flex-direction: row;
+    padding: 30px;
+    border: 2px solid red;
+}
+.input{
+padding-left: ;
+}
+.content{
+    border: 3px solid aqua;
+    width: 400px;
+    height: 600px;
+    border-radius: 20px;
+    margin-left: 450px;
+    background-color: rgba(255, 220, 255, 1);
+    backdrop-filter: blur(15);
+}
+.image{
+    padding-left: 90px;
+}
+.heading1{
+    padding-left: 130px;
+}
+.input1{
+    margin: 10px;
+    height: 20px;
+    height: 30px;
+    
+}
+.input2{
+    margin: 10px;
+    height: 30px;
+}
+.input3{
+    margin: 10px;
+    height: 30px;
+
+}
+.input4{
+    margin: 10px;
+    height: 30px;
+}
+.input5{
+    margin: 10px;
+    
+}
+.input6{
+    margin: 10px;
+    width: 330px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: green;
+    font-family: sans-serif;
+}
